@@ -1,0 +1,23 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Microservice Build Notification
+
+Dear Recipient name,
+
+The Microservice Build is created and ready for download.
+Please find the details below:
+
+╒═══════╤════════════╤═══════════╤═══════╤════════════╤════════════╕
+│   SNO │ Service    │ version   │ tag   │ location   │ checksum   │
+╞═══════╪════════════╪═══════════╪═══════╪════════════╪════════════╡
+│     1 │ eps-credit │ 1.0.0.1   │ tag-1 │ location-1 │ checksum-1 │
+├───────┼────────────┼───────────┼───────┼────────────┼────────────┤
+│     2 │ eps-debit  │ 1.0.0.0   │ tag-2 │ location-2 │ checksum-2 │
+╘═══════╧════════════╧═══════════╧═══════╧════════════╧════════════╛
+
+
+
+Thank You,
+Build & Deployment Team
+Note: This is a system generated email.Please donot replay to this.
+      Please contact POS Platform Team on the Slack channel: #pos-microservices-platform
